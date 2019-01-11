@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  QandA
+//  novemberTwenty
 //
-//  Created by User15 on 2019/1/11.
-//  Copyright © 2019 ee. All rights reserved.
+//  Created by User13 on 2018/11/28.
+//  Copyright © 2018 user13. All rights reserved.
 //
 
 import UIKit
